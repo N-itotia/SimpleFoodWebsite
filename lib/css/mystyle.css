@@ -8,3 +8,15 @@
     color: white;
     text-align: center;
   }
+  .side-footer1, .side-footer2, .side-footer3{
+    width: 40%;
+    float: right;
+    margin: 10px;
+   
+}
+    div.nav{
+       text-decoration: none;
+       color: black;
+   }
+
+   a
