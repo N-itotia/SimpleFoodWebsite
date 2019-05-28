@@ -1,40 +1,33 @@
-<!DOCTYPE>
+<!DOCTYPE hmtl>
 <html>
-    <header>
+    <head>
+        <link rel="stylesheet" href="bootstrap.php">
         <title>Home</title>
-        <link rel="stylesheet" type="text/css" href="lib/css/mystyle.css"> 
-    </header>
+    </head>
     <body>
-        <div class="nav">
-            <a class="top" href="index.php">Home
-                <div class="underline"></div>
-            </a>
-            <a class="top" href="menu.php">Menu
-                <div class="underline"></div>
-            </a>
-            <a class="top" href="blog.php">Blog
-                <div class="underline"></div>
-            </a>
-        </div>
-        </body>
-    <div class="footer">
-        <div class="side-footer1">
-            <img src="" alt=""/>
-        </div>
-        <div class="side-footer2">
-            <a class="link" href="index.php">Home</a><br/><br/>
-            <a class="link" href="menu.php">Menu</a><br/><br/>
-            <a class="link" href="blog.php">Blog</a><br/><br/>
-            <a class="link" href="news.php">News</a>
-        </div>
-        <div class="side-footer3">
-            <h3>Contact Us At:</h3>
-                <a class="link">+254 711111111</a><br/>
-                <a class="link" href="info@google.com">Email</a><br/>
-                <a class="link" href="#">Facebook</a><br/>
-                <a class="link" href="#">Twitter</a><br/>
-                <a class="link" href="#">Google+</a><br/>
-
-        </div>
-    </div>
+    	<h2>MamaMachakula</h2>
+       <ul>
+       		<li class="active">
+       			<a href="index.php">Home</a>
+       		</li>
+       		<li>
+       			<a href="menu.php">Menu</a>
+       		</li>
+       		<li>
+       			<a href="bands.php">Band</a>
+       		</li>
+       </ul>
+       <h2 class="h1 small">Welcome to the simple dishes that remind you of home.</h2>
+       <p>Here you can get the simple joys of food that is made with a home made touch. We have a dedicated staff that fully focuses on the delicacies that make it worth while. Our menu changes everyday allowing for something new. This allows for fresh tasting food for the consumer to choose from. </p>
+       <p>We also have Bring a Band Saturdays where you can suggest a band to bring or we find local talent to play while you enjoy the environment while eating.</p>
+       <h3>Founded in 2007</h3>
+       <p>Our founder focused on the niche market that no other restaurant was looking at.<br><b>A relaxing envrionment with good looking food and satisfying food for the family.</b></p>
+       <p>This view allowed us to engage with customers and also improve quality service of the business.<br> Through constant feedback we are able to improve the service our restaurant offers throughout Nairobi.</p>
+    </body>
+    <footer>
+    	<strong>Westlands Opposite Java</strong>
+    	<p>P.O. BOX 12344</p>
+    	<a href="info@gmail.com">info@mamamachakula.com</a>
+    	<p>+254712342231</p>
+    </footer>
 </html>
