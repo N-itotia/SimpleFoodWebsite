@@ -1,8 +1,9 @@
 <!DOCTYPE hmtl>
 <html>
     <head>
-        <link rel="stylesheet" href="bootstrap.php">
+        <link rel="stylesheet" href="functions.php">
         <title>Home</title>
+
     </head>
     <body>
     	<h2>MamaMachakula</h2>

@@ -1,7 +1,7 @@
 <!DOCTYPE hmtl>
 <html>
     <head>
-        <link rel="stylesheet" href="bootstrap.php">
+        <link rel="stylesheet" href="functions.php">
         <title>Menu</title>
     </head>
     <body>
