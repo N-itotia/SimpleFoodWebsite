@@ -18,7 +18,7 @@
        			<a href="bands.php">Band</a>
        		</li>
        </ul>
-       <h2 class="h1 small">Welcome to the simple dishes that remind you of home.</h2>
+       <h3>Welcome to the simple dishes that remind you of home.</h3>
        <p>Here you can get the simple joys of food that is made with a home made touch. We have a dedicated staff that fully focuses on the delicacies that make it worth while. Our menu changes everyday allowing for something new. This allows for fresh tasting food for the consumer to choose from. </p>
        <p>We also have Bring a Band Saturdays where you can suggest a band to bring or we find local talent to play while you enjoy the environment while eating.</p>
        <h3>Founded in 2007</h3>
