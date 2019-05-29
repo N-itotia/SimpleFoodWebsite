@@ -1,7 +1,3 @@
-<!DOCTYPE hmtl>
-<html>
-    <head>
-        <?php include_once "functions.php";?>
         <title>Band Selection</title>
     </head>
     <body>
@@ -35,10 +31,4 @@
         <input type="text" name="band">
         <button type="button">Submit</button>
     </body>
-    <footer>
-      <strong>Westlands Opposite Java</strong>
-      <p>P.O. BOX 12344</p>
-      <a class=".text-white" href="info@gmail.com">info@mamamachakula.com</a>
-      <p>+254712342231</p>
-    </footer>
-</html>
+   

@@ -1,7 +1,3 @@
-<!DOCTYPE hmtl>
-<html>
-    <head>
-      <?php include_once "functions.php";?>
         <title>Menu</title>
     </head>
     <body>
@@ -57,10 +53,4 @@
         </tr>   
       </table>
       <p>The meals on the menu when requested will cost the <strong>Same Price</strong> each day.</p>
-    <footer>
-      <strong>Westlands Opposite Java</strong>
-      <p>P.O. BOX 12344</p>
-      <a href="info@gmail.com">info@mamamachakula.com</a>
-      <p>+254712342231</p>
-    </footer>
-</html>
+   

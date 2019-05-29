@@ -1,10 +1,5 @@
-<!DOCTYPE hmtl>
-<html>
-    <head>
-       <?php include_once "functions.php";?>
-        <title>Home</title>
-
-    </head>
+		<title>MamaMachakula - Home</title>
+	</head>
     <body>
     	<h2>MamaMachakula</h2>
        <ul>
@@ -25,10 +20,4 @@
        <p>Our founder focused on the niche market that no other restaurant was looking at.<br><b>A relaxing envrionment with good looking food and satisfying food for the family.</b></p>
        <p>This view allowed us to engage with customers and also improve quality service of the business.<br> Through constant feedback we are able to improve the service our restaurant offers throughout Nairobi.</p>
     </body>
-    <footer>
-    	<strong>Westlands Opposite Java</strong>
-    	<p>P.O. BOX 12344</p>
-    	<a href="info@gmail.com">info@mamamachakula.com</a>
-    	<p>+254712342231</p>
-    </footer>
-</html>
+    
